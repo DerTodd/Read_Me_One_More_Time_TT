@@ -1,5 +1,5 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-  # dfasf
+  # ReadMe one omre Time
 
   ## Table of Contents
   * [Description](#descrip)
@@ -12,31 +12,31 @@
   * [Powered By](#powered-by)
   <a name='descrip'></a>
   ### Description:
-      asdfasdf
+      Allow users to generate ReadME files
 
   <a name='install'></a>
   ### Installation:
-      sadfasdf
+      Use Node.js and the files
 
   <a name='usage'></a>
   ### Usage: 
-      asdfasdf
+      It allows users to shorten the time required to make readmes
 
   <a name='contri'></a>
   ### Contributions:
-      asdfasdf
+      n/a
 
   <a name='tests'></a>
   ### Tests
-      asdfasdf
+      I broke it and rebuilt it.  If you would like to help, please send information.
 
   <a name='contact'></a>
   ### Contact & Qustions
   If you have any questions, suggestions or concerns, please contact me at:  
   GitHub  
-  https://github.com/asdfasdf  
+  https://github.com/DerTodd  
   email  
-      asdfasdf  
+      todd.taylor@utexas.edu  
 
   <a name='licnese'></a>
   ### License:
