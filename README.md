@@ -1,22 +1,27 @@
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-  # asdfasdfasdf
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  # Read Me One More Time TT
   ### Description:
-  sdfasdfasdfsa
+      make a readMe file
   ### Installation:
-  sdfasdfasdfas
+      Use node.js
   ### Usage: 
-  dfsdfgsdfgsdgf
+      Allow others to cheat
   ### Contributions:
-  sdfgsdfg
+        IF you would like to help, please contact me.
   ### Tests
-  sdfgsdfg
+        none
   ### Contact
   If you have any questions, suggestions or concerns, please contact me at:  
   GitHub  
-  sdfgsdfgsd  
+      DerTodd  
   email  
-  sdfgsdfgg  
+      todd.taylor@utexas.edu  
 
   ### License:
-  [Apache](https://opensource.org/licenses/Apache-2.0)
-  
+  [MIT](https://opensource.org/licenses/MIT)
+
+  #### Powered By
+  ![Monster](./assets/images/monster.jpg)  
+  ![Coke](./assets/images/coke.jpg)  
+  ![Alani Nu](./assets/images/alani_nu.jpg) 
+

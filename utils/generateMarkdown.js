@@ -188,13 +188,21 @@ function renderLicenseLink(data) {
   // renderLicenseLink(licenseWebsite);
   // renderLicenseSection(licenseType);
   var licenseName = "[" + data + "]"
+  var monster = "![Monster](./assets/images/monster.jpg)"
+  var coke = "![Coke](./assets/images/coke.jpg)"
+  var alaniNu = "![Alani Nu](./assets/images/alani_nu.jpg)"
   console.log("link append bottom " + licenseWebsite)
   console.log("image append bottom " + licenseType)
   console.log("image append bottom " + licenseName)
   var lists=`
   ### License:
   ${licenseName}${licenseWebsite}
-  
+
+  #### Powered By
+  ${monster}  
+  ${coke}  
+  ${alaniNu} 
+
 `;
 //var lists = JSON.stringify(list);
 console.log(lists);
@@ -239,21 +247,21 @@ function generateMarkdown(data) {
   var lists=`
   # ${data.title}
   ### Description:
-  ${data.description}
+      ${data.description}
   ### Installation:
-  ${data.installation}
+      ${data.installation}
   ### Usage: 
-  ${data.usage}
+      ${data.usage}
   ### Contributions:
-  ${data.contributing}
+      ${data.contributing}
   ### Tests
-  ${data.tests}
+      ${data.tests}
   ### Contact
   If you have any questions, suggestions or concerns, please contact me at:  
   GitHub  
-  ${data.gitUserName}  
+      ${data.gitUserName}  
   email  
-  ${data.email}  
+      ${data.email}  
 `;
 //var lists = JSON.stringify(list);
 console.log(lists);
